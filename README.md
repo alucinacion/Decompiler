@@ -21,7 +21,7 @@ This repository documents the process to extract Python bytecode (`.pyc` files) 
 6. Inside the extracted folder, locate the `.pyc` file(s). These files are compiled Python bytecode.
 
 7. To recover the original Python source code:
-- Open your browser and go to [https://pylingual.io/](https://pylingual.io/).
+- Open your browser and go to [pylingual](https://pylingual.io/).
 - Upload the extracted `.pyc` file.
 - The website will decompile the file and display the recovered Python code.
 - Copy or download the resulting `.py` file as needed.
