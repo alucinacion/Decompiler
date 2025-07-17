@@ -14,7 +14,7 @@ This repository documents the process to extract Python bytecode (`.pyc` files) 
 3. In the terminal window, execute the extraction script using the following command:
    Replace `example.exe` with the actual name of your executable file
 
- 4. Run this command: `python pyinstxtractor.py example.exe`
+ 4. Run this command: `python decompile.py example.exe`
 
 5. After execution, a new folder named `example.exe_extracted` will be created automatically in the same directory.
 
