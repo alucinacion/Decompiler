@@ -1,6 +1,6 @@
 # Extracting Python Source Code from PyInstaller
 
-This repository documents the process to extract Python bytecode (`.pyc` files) from executables created with PyInstaller and recover the original Python source code (`.py`). This method uses the script `pyinstxtractor.py` to extract the compiled files and the online tool [https://pylingual.io/](https://pylingual.io/) to decompile them.
+This repository documents the process to extract Python bytecode (`.pyc` files) from executables created with PyInstaller and recover the original Python source code (`.py`). This method uses the script `pyinstxtractor.py` to extract the compiled files and the online tool [pylingual](https://pylingual.io/) to decompile them.
 
 ## Steps to Extract and Recover Python Code
 
