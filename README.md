@@ -40,3 +40,8 @@ This process is intended exclusively for educational purposes, recovery of your 
 
 - pyinstxtractor.py : https://github.com/extremecoders-re/pyinstxtractor
 - pylingual.io : https://pylingual.io/
+  
+
+##  Support
+
+**Hit me up:**            https://t.me/foolest
